@@ -77,7 +77,23 @@
   <img width="30" src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/SVG/Power-BI.svg" />
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+ ## Ferramentas e Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/DAX-2C2C2C?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Linguagem%20M-0C5C8C?style=for-the-badge&logo=powerbi&logoColor=white" alt="Linguagem M"/>
+  <img src="https://img.shields.io/badge/Oracle%20Analytics-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Analytics"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AppSheet"/>
+  <img src="https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
+</div>
+ 
   
 </div>
 

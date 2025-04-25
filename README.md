@@ -93,7 +93,12 @@
   <img src="https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AppSheet"/>
   <img src="https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
 </div>
- 
+ ## Sobre mim
+
+Sou **Administrador de Empresas** registrado no **CRA-MG**, com **MBA em Gerenciamento de Projetos** e **especialização em Engenharia de Software**. Com uma sólida formação acadêmica e ampla experiência em **gestão de projetos**, **análise de negócios** e **inteligência de dados**, aplico minha expertise para **otimizar processos** e **identificar oportunidades de crescimento** nas empresas em que atuo.
+
+Tenho experiência em empresas de **médio e grande porte**, incluindo **multinacionais**, onde contribui com minha capacidade de **agregar valor aos negócios**, sempre com foco no **aumento do faturamento** e na **melhoria contínua dos processos**.
+
   
 </div>
 

@@ -74,7 +74,10 @@
   </div>
 
   <div align="center" style="display: inline_block"><br>
+  <img width="30" src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/SVG/Power-BI.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
   
 </div>
 

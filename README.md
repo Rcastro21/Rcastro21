@@ -43,23 +43,18 @@
 
 <div align="center">
   <img
-    height=165
+    height=248
     align="center"
     alt="GitHub Stats"
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rcastro21&theme=city_lights"
   />
   <img
-    height=165
+    height=248
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rcastro21&theme=city_lights"
   />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rcastro21&theme=city_lights&utcOffset=8"
-  />
+  
   <br>
   <br>
   <img

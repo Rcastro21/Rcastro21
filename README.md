@@ -43,13 +43,13 @@
 
 <div align="center">
   <img
-    height=248
+    height=165
     align="center"
     alt="GitHub Stats"
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rcastro21&theme=city_lights"
   />
   <img
-    height=248
+    height=165
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rcastro21&theme=city_lights"
@@ -58,7 +58,7 @@
   <br>
   <br>
   <img
-    height=243
+    height=
     align="center"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rcastro21&theme=city_lights"
@@ -66,7 +66,7 @@
   <br>
   <br>
   <img
-    height=187
+    height=154
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=Rcastro21&theme=city-lights&hide_border=true&locale=pt_BR&card_width=885"
